@@ -17,7 +17,6 @@
 #define TFT_CS 15 // Chip select control pin
 #define TFT_DC 2 // Data Command control pin
 #define TFT_RST 12 // Reset pin (could connect to Arduino RESET pin)
-#define TFT_BL 21 // LED back-light
 #define SPI_FREQUENCY 55000000
 #define SPI_READ_FREQUENCY 20000000
 
